@@ -1,0 +1,197 @@
+{
+	"frames": {
+
+		"apple": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 116
+			}
+		},
+		"avocado": {
+			"frame": {
+				"x": 128,
+				"y": 0,
+				"w": 86,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 86,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 86,
+				"h": 128
+			}
+		},
+		"banana": {
+			"frame": {
+				"x": 214,
+				"y": 0,
+				"w": 98,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 98,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 98,
+				"h": 128
+			}
+		},
+		"cocos": {
+			"frame": {
+				"x": 312,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 128
+			}
+		},
+		"grape": {
+			"frame": {
+				"x": 440,
+				"y": 0,
+				"w": 104,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 104,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 104,
+				"h": 128
+			}
+		},
+		"kiwi": {
+			"frame": {
+				"x": 544,
+				"y": 0,
+				"w": 98,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 98,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 98,
+				"h": 128
+			}
+		},
+		"pomegranate": {
+			"frame": {
+				"x": 642,
+				"y": 0,
+				"w": 106,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 106,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 106,
+				"h": 128
+			}
+		},
+		"strawberry": {
+			"frame": {
+				"x": 748,
+				"y": 0,
+				"w": 102,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 128
+			}
+		},
+		"watermelon": {
+			"frame": {
+				"x": 850,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 128
+			}
+		}
+	},
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "atlas.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 978,
+			"h": 128
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:67810b4845ed2d5b8627653dc7eb7185:a5dc637bf97d6330aade920892481f15:cbce6b53f0f49e0bf15173c25c41f876$"
+	}
+}
